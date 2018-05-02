@@ -7,5 +7,5 @@
 
 //To hold the Date:
 var theDate = new Date();
-//Displaying the date:
+//Displaying the date & tweaking the display to be more readable:
 document.getElementById('dateContainer').innerHTML = theDate.toDateString();
