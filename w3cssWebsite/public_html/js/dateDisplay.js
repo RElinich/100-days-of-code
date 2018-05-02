@@ -7,7 +7,5 @@
 
 //To hold the Date:
 var theDate = new Date();
-
 //Displaying the date:
 document.getElementById('dateContainer').innerHTML = theDate;
-
