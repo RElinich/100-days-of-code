@@ -9,7 +9,7 @@ and open the template in the editor.
 */
 
 .headText{
-    font-family: 'Do Hyeon', sans-serif;
+    font-family: 'Abril Fatface', sans-serif;
 }
 
 body{
@@ -17,5 +17,5 @@ body{
 }
 
 h1, h2{
-    font-family: 'Abril Fatface', cursive;
+    font-family: 'Do Hyeon', cursive;
 }
