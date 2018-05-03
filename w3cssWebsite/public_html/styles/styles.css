@@ -13,5 +13,9 @@ and open the template in the editor.
 }
 
 body{
-    font-family: serif;
+    font-family: 'Exo', sans-serif;
+}
+
+h1, h2{
+    font-family: 'Abril Fatface', cursive;
 }
